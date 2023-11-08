@@ -18,7 +18,7 @@
 
  💬 Ask me about **React, Java, Python... or anything [here](https://github.com/carzoongu/carzoongu/issues)**
 
- ⚡ Fun fact ****
+ ⚡ Fun fact **Addicted to coding and Music**
  
  </div>
  
