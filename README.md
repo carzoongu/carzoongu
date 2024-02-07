@@ -16,7 +16,7 @@
  
  🌱 I’m currently learning **React Native Expo**
 
- 💬 Ask me about **React, Java, Python... or anything [here](https://github.com/carzoongu/carzoongu/issues)**
+ 💬 Ask me about **React, Java, Python, django... or anything [here](https://github.com/carzoongu/carzoongu/issues)**
 
  ⚡ Fun fact **Addicted to coding and Music**
  
