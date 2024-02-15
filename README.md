@@ -26,7 +26,7 @@
   <a href="mailto:bka1739@gmail.com@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/benson-kazungu" >
+  <a href="https://www.linkedin.com/in/benson-kazungu-509b2b237/" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
   </a>
   <a href="https://carzoongu.github.io" target="_blank">
